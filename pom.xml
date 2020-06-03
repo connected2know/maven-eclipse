@@ -6,6 +6,7 @@
   <artifactId>MavenEclipseExample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
+  <description>Maven pom example</description>
 
   <name>MavenEclipseExample</name>
   <url>http://maven.apache.org</url>
